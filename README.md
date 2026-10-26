@@ -96,11 +96,11 @@ Before running the project, make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/shantappahulsure/alum1.git
 cd alum1-main
 ```
 
-Replace `<YOUR_REPOSITORY_URL>` with your actual GitHub repository URL.
+Replace `https://github.com/shantappahulsure/alum1.git` with your actual GitHub repository URL.
 
 ### 2. Configure the Backend
 
