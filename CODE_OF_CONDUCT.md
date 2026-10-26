@@ -30,14 +30,14 @@ The **ReferralNetworkHub** maintainers are responsible for clarifying and enforc
 
 This Code of Conduct applies to all **ReferralNetworkHub** community spaces, including:
 - GitHub repository (issues, pull requests, discussions).
-- Email communications (e.g., rutikkulkarni2001@gmail.com).
+- Email communications (e.g., shantappahulsure@gmail.com).
 - Future platforms (e.g., Discord, Slack, or forums, if implemented).
 
 It also applies when individuals represent the project publicly, such as via official email, social media, or events.
 
 ## Enforcement
 
-To report abusive, harassing, or unacceptable behavior, contact the maintainer at [rutikkulkarni2001@gmail.com](mailto:rutikkulkarni2001@gmail.com). Reports can be anonymous, and we aim to review and respond within 48 hours. All complaints will be investigated promptly, fairly, and confidentially.
+To report abusive, harassing, or unacceptable behavior, contact the maintainer at [shantappahulsure@gmail.com](mailto:shantappahulsure@gmail.com). Reports can be anonymous, and we aim to review and respond within 48 hours. All complaints will be investigated promptly, fairly, and confidentially.
 
 Maintainers are committed to protecting the privacy and security of reporters.
 
@@ -69,4 +69,4 @@ For translations or additional resources, visit [contributor-covenant.org](https
 
 ## Questions?
 
-Contact us at [rutikkulkarni2001@gmail.com](mailto:rutikkulkarni2001@gmail.com) or open an issue in the [ReferralNetworkHub repository](https://github.com/RutikKulkarni/ReferralNetworkHub). See our [Contribution Guidelines](./CONTRIBUTING.md) for more ways to get involved.
+Contact us at [shantappahulsure@gmail.com](mailto:shantappahulsure@gmail.com) or open an issue in the [ReferralNetworkHub repository](https://github.com/shantappahulsure/alum1). See our [Contribution Guidelines](./CONTRIBUTING.md) for more ways to get involved.
